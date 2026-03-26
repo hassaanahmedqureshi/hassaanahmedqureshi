@@ -1,63 +1,31 @@
-# Hassaan Ahmed Qureshi
+# Hi, I'm Hassaan Ahmed Qureshi
 
-Full-Stack Software Engineer | Java | Spring Boot | Angular | MySQL | CI/CD | Microservices
+Full-Stack Developer based in Rome, Italy. I build scalable, responsive web and mobile applications with a focus on performance, usability, and clean code.
 
----
+## Skills
 
-## Professional Summary
+**Front-End:** React, Next.js, Redux, TypeScript, Tailwind CSS, RxJS
+**Back-End:** Laravel, Python, Node.js
+**Mobile:** React Native, Flutter, Kotlin  
+**CMS:** WordPress, WooCommerce, ACF, CF7  
+**Tools & Practices:** Git, Docker, Postman, OpenAI API, Agile/Scrum, TDD, Microservices, RESTful APIs  
 
-Full-stack software engineer with hands-on experience designing and developing scalable web applications using Angular and Java-based backend systems. Strong background in RESTful APIs, microservices architecture, relational databases, and CI/CD pipelines. Experienced in delivering production-ready solutions with clean, maintainable code.
+## Experience Highlights
 
----
+- **Front-End Developer @ Tarquini Lab Srl**  
+  Built e-commerce platforms, AI chatbots, and mobile apps for geospatial data collection.  
 
-## Core Skills
+- **Mobile & Web Developer @ Mavuno Technologies**  
+  Developed AgriTech platforms with offline support for smallholder farmers.  
 
-**Frontend Development**
-- Angular
-- TypeScript
-- HTML5, CSS3
-- Responsive UI development
+- **Front-End Developer @ Softech Worldwide & Textpress Media Group**  
+  Improved enterprise video platforms, no-code app builders, and contract management systems.  
 
-**Backend Development**
-- Java
-- Spring Boot
-- Java EE
-- RESTful API design
-- Microservices architecture
+## Education
 
-**Databases**
-- MySQL
-- Database schema design
-- SQL query optimization
+- **MEng Computer Science**, Sapienza Università di Roma  
+- **Bachelors Software Engineering**, Mehran University of Engineering & Technology  
 
-**DevOps & Tools**
-- Git, GitHub
-- Docker
-- Kubernetes
-- CI/CD pipelines
-- Version control and code reviews
+## Connect with me
 
----
-
-## Technical Experience & Interests
-
-- Full-stack SaaS application development
-- Designing REST APIs for frontend-backend communication
-- Building microservices-based backend systems
-- Integrating databases with backend services
-- Implementing CI/CD pipelines for automated builds and deployments
-- Containerization and orchestration using Docker and Kubernetes
-
----
-
-## Currently Learning
-
-- Next.js
-- GraphQL
-- Magento
-
----
-
-## Contact Information
-
-- Email: hassaanahmedqureshi@gmail.com
+[LinkedIn](https://linkedin.com/in/hassaanahmedqureshi) | [GitHub](https://github.com/hassaanahmedqureshi)  
