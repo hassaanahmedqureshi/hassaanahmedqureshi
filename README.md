@@ -1,31 +1,49 @@
-# Hi, I'm Hassaan Ahmed Qureshi
+# Hey, I'm Hassaan 👋
 
-Full-Stack Developer based in Rome, Italy. I build scalable, responsive web and mobile applications with a focus on performance, usability, and clean code.
+Full Stack Developer based in Rome, Italy — building web, mobile, and AI-powered products across startups, agencies, and enterprise platforms.
 
-## Skills
+I specialize in integrating AI into real products. I've shipped a conversational AI chatbot that guides users through a certificate purchase flow, and a voice-powered product search using WhisperAI trained on live store catalogs. Now I'm focused on building at the intersection of React/Next.js and modern LLM APIs.
 
-**Front-End:** React, Next.js, Redux, TypeScript, Tailwind CSS, RxJS
-**Back-End:** Laravel, Python, Node.js
-**Mobile:** React Native, Flutter, Kotlin  
-**CMS:** WordPress, WooCommerce, ACF, CF7  
-**Tools & Practices:** Git, Docker, Postman, OpenAI API, Agile/Scrum, TDD, Microservices, RESTful APIs  
+---
 
-## Experience Highlights
+## 🤖 What I'm building now
 
-- **Front-End Developer @ Tarquini Lab Srl**  
-  Built e-commerce platforms, AI chatbots, and mobile apps for geospatial data collection.  
+**AI Travel Concierge** — A conversational trip planner powered by Gemini API. Describe your trip, get a personalized day-by-day itinerary, and refine it through conversation.
+`Next.js` `Gemini API` `Tailwind CSS` `Vercel`
 
-- **Mobile & Web Developer @ Mavuno Technologies**  
-  Developed AgriTech platforms with offline support for smallholder farmers.  
+---
 
-- **Front-End Developer @ Softech Worldwide & Textpress Media Group**  
-  Improved enterprise video platforms, no-code app builders, and contract management systems.  
+## 🛠 Stack
 
-## Education
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS 
+**Backend** — Laravel, Python, Node.js  
+**Mobile** — Flutter, React Native 
+**CMS** — WordPress, WooCommerce, ACF  
+**Tools** — Git, Docker, Postman, REST APIs
 
-- **MEng Computer Science**, Sapienza Università di Roma  
-- **Bachelors Software Engineering**, Mehran University of Engineering & Technology  
+---
 
-## Connect with me
+## 🚀 Highlight projects
 
-[LinkedIn](https://linkedin.com/in/hassaanahmedqureshi) | [GitHub](https://github.com/hassaanahmedqureshi)  
+**CercaVisure** — Italian document generation platform (Catasto, Camera di Commercio). Built full e-commerce flow in Laravel + React, then added an AI chatbot that identifies what certificate a user needs and adds it to cart automatically. `Laravel` `React` `OpenAI API`
+
+**WhisperAI Voice Search** — Voice-powered product search for WooCommerce stores. Users speak their query; the model — trained on the store's catalog — returns matching products in real time. `WordPress` `WooCommerce` `OpenAI` `WhisperAI`
+
+**Eyeland** — Mobile app for rural field teams to mark GPS locations, annotate polygons with images and data, and export GeoJSON reports for offline analysis. `React Native` `OpenStreetMap`
+
+**AgriTech Platform @ Mavuno** — Satellite imagery + ML platform helping smallholder farmers monitor crops. Built the mobile frontend with offline sync for low-end Android devices. `Flutter` `Dart` `Earth Observation APIs`
+
+---
+
+## 🎓 Education
+
+**MEng Computer Science** — Sapienza Università di Roma  
+Thesis: Shared AR Experience on Edge/Fog Computing
+
+**BE Software Engineering** — Mehran University of Engineering & Technology
+
+---
+
+## 📍 Based in Rome
+
+[LinkedIn](https://linkedin.com/in/hassaanahmedqureshi) · [Email](mailto:HassaanAhmedQureshi@gmail.com)
