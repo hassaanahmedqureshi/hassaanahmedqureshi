@@ -11,6 +11,7 @@ I specialize in integrating AI into real products. I've shipped a conversational
 **AI Travel Concierge** — A conversational trip planner powered by Gemini API. Describe your trip, get a personalized day-by-day itinerary, and refine it through conversation.
 `Next.js` `Gemini API` `Tailwind CSS` `Vercel`
 
+🌍 **Live Demo:** [ai-travel-concierge-ten.vercel.app](https://ai-travel-concierge-ten.vercel.app)
 ---
 
 ## 🛠 Stack
